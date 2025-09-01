@@ -1,6 +1,6 @@
 # Phishing URL Detection 
-![image](https://raw.githubusercontent.com/vicodes11/Phish-Detector/refs/heads/main/Screenshot%202025-09-01%20144223.png?token=GHSAT0AAAAAADJ3JUXSP7Y6I5L5HU62E6EQ2FVUOHA)
-![image](https://raw.githubusercontent.com/vicodes11/Phish-Detector/refs/heads/main/Screenshot%202025-09-01%20144244.png?token=GHSAT0AAAAAADJ3JUXS4EZUJVLXHRZIZV5A2FVUPHQ)
+![image](https://github.com/Vecniche/phishing_detector1/blob/5f15256c85f18fb9bd3b30d0f9a2b60f5f447e18/Screenshot%202025-09-01%20144223.png)
+![image](https://github.com/Vecniche/phishing_detector1/blob/5f15256c85f18fb9bd3b30d0f9a2b60f5f447e18/Screenshot%202025-09-01%20144244.png)
 
 ## Table of Content
   * [Introduction](#introduction)
